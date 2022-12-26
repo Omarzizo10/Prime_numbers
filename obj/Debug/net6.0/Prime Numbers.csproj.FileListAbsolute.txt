@@ -1,0 +1,15 @@
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.csproj.AssemblyReference.cache
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.AssemblyInfo.cs
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.exe
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.deps.json
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.runtimeconfig.json
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.dll
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.pdb
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.dll
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\refint\Prime Numbers.dll
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.pdb
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.genruntimeconfig.cache
+C:\Users\Somaya Hussien\source\repos\Prime Numbers\Prime Numbers\obj\Debug\net6.0\ref\Prime Numbers.dll
